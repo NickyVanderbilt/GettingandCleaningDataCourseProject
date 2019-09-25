@@ -1,6 +1,6 @@
   CodeBook
 
-  This is a codebook that describes the variables, the data, and any transformations or work that I performed to clean up the data. 
+ This is a codebook that describes the variables, the data, and any transformations or work that I performed to clean up the data. 
 
 1. Download the dataset
 
